@@ -1,0 +1,9 @@
+*.pyc
+.vscode/*
+.DS_Store
+.DS_Store
+*.txt
+*.pptx
+lstore/.DS_Store
+.DS_Store
+*.png
